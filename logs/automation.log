@@ -1,0 +1,21 @@
+00:27:41.953 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\javaprogram\opencart\master.xml"
+00:27:42.050 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+00:27:42.229 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\javaprogram\opencart\master.xml
+
+00:27:45.950 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting ******** TC_001_AccountRegistrationTest ********
+00:27:45.950 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started....
+00:27:46.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+00:27:46.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+00:27:46.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+00:27:47.112 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+00:27:47.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected messege
+00:27:47.911 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs finished....
+00:27:47.911 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished ******** TC_001_AccountRegistrationTest ********
+00:27:50.978 [main] INFO  testCases.TC_002_LoginTest - ******** Starting TC_002_LoginTest ********
+00:27:51.064 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link
+00:27:51.575 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login link
+00:27:51.578 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password...
+00:27:51.815 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+00:27:52.529 [main] INFO  testCases.TC_002_LoginTest - Login test passed
+00:27:52.529 [main] INFO  testCases.TC_002_LoginTest - ******** Finished TC_002_LoginTest ********

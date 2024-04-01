@@ -1,0 +1,54 @@
+23:26:43.244 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+23:26:45.194 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting ******** TC_001_AccountRegistrationTest ********
+23:26:45.195 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started....
+23:26:45.289 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:26:45.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+23:26:45.670 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+23:26:46.124 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+23:26:46.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected messege
+23:26:46.790 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@43f61afb: 18 ms
+23:26:46.836 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@45e22def: 46 ms
+23:26:46.854 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d7b1f1c: 16 ms
+23:26:46.869 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c575325: 15 ms
+23:26:46.882 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@43da41e: 12 ms
+23:26:46.892 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3bd3d05e: 9 ms
+23:26:46.893 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6aba5d30: 0 ms
+23:50:11.594 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\javaprogram\opencart\testng.xml"
+23:50:11.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\javaprogram\opencart\testng.xml
+
+23:50:14.209 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting ******** TC_001_AccountRegistrationTest ********
+23:50:14.209 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started....
+23:50:14.294 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:50:14.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+23:50:14.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+23:50:15.164 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+23:50:15.626 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected messege
+23:50:15.628 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs finished....
+23:50:15.628 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished ******** TC_001_AccountRegistrationTest ********
+23:50:31.734 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\javaprogram\opencart\testng.xml"
+23:50:31.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\javaprogram\opencart\testng.xml
+
+23:50:45.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\javaprogram\opencart\testng.xml"
+23:50:45.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\javaprogram\opencart\testng.xml
+
+23:51:05.521 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting ******** TC_001_AccountRegistrationTest ********
+23:51:05.522 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started....
+23:51:05.634 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:51:06.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+23:51:06.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+23:51:06.542 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+23:51:07.022 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected messege
+23:51:07.024 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs finished....
+23:51:07.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished ******** TC_001_AccountRegistrationTest ********
+23:51:11.986 [main] INFO  testCases.TC_001_AccountRegistrationTest - Starting ******** TC_001_AccountRegistrationTest ********
+23:51:11.987 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs started....
+23:51:12.087 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:51:12.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on registration link
+23:51:12.492 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details
+23:51:13.090 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicked on continue
+23:51:13.565 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected messege
+23:51:13.567 [main] DEBUG testCases.TC_001_AccountRegistrationTest - application logs finished....
+23:51:13.567 [main] INFO  testCases.TC_001_AccountRegistrationTest - Finished ******** TC_001_AccountRegistrationTest ********
